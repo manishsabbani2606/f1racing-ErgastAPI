@@ -2,7 +2,8 @@
 
 F1 Racing Data Project – Azure & Ergast API
 This project leverages the Ergast Developer API to extract historical and live Formula 1 racing data and build a scalable data pipeline using Azure services.
-** Technologies Used:**
+
+**Technologies Used:**
 •	Ergast API – Source for real-time and historical F1 race data
 •	Azure Data Factory (ADF) – Orchestrates data ingestion from the API
 •	Azure Databricks (PySpark) – Handles data transformation, cleansing, and enrichment
@@ -10,7 +11,7 @@ This project leverages the Ergast Developer API to extract historical and live F
 •	Delta Lake – Enables scalable, ACID-compliant data storage with versioning
 •	Power BI / Azure Synapse (optional) – For dashboards and advanced analytics
 
-** Key Features:**
+**Key Features:**
 •	Automated data ingestion from Ergast API using Azure Data Factory
 •	Data transformation and modeling using Databricks notebooks (PySpark)
 •	Implementation of the Medallion Architecture (Raw → Processed → Presentation)
