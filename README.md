@@ -1,4 +1,4 @@
-# f1racing-ErgastAPI
+# F1 Racing-ErgastAPI
 
 F1 Racing Data Project – Azure & Ergast API
 This project leverages the Ergast Developer API to extract historical and live Formula 1 racing data and build a scalable data pipeline using Azure services.
